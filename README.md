@@ -1,11 +1,11 @@
 # Sneaky
 
-Download and place them in a single folder
+Download these filesand place them in a single folder
 
-main.py
+`main.py
 requirements.txt
 Google.py
-credentials.json
+credentials.json `
 
 use pip install -r `path/to/requirements.txt` to get all the required modules
 
