@@ -1,6 +1,6 @@
 # Sneaky
 
-Download these filesand place them in a single folder
+Download these files and place them in a single folder
 
 `main.py
 requirements.txt
