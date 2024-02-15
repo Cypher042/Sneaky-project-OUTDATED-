@@ -1,5 +1,5 @@
 # Sneaky
-
+## This is older and inferior version on the Project Sneaky
 Download these files and place them in a single folder
 
 `main.py
